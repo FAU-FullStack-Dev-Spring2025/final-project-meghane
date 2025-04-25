@@ -4,7 +4,7 @@ Submitted by: **Meghan Thomas - Z23651457**
 
 This web app was built to provide a community space dedicated to discussing everything related to Naughty Dog's incredible series, The Last of Us. Whether you're passionate about the intricate story of the games, hooked on the HBO adaptation, or just want to share theories, fan art, or gameplay moments, this is the place for you. We aim to provide a platform for respectful discussion, analysis, and sharing among fans. Remember to look for the light!
 
-Time spent: **X** hours spent in total
+Time spent: **21** hours spent in total
 
 Netlify Deployment Link: https://thequarantinezone.netlify.app/ 
 
@@ -72,17 +72,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/FAU-FullStack-Dev-Spring2025/final-project-meghane/blob/main/finalproject.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Here's a walkthrough of the User Login and Sign Up functionality:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/FAU-FullStack-Dev-Spring2025/final-project-meghane/blob/main/finalproject_login.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Gifski
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only "challenge" I faced throughout this project was teaching myself a little more about supabase and how to implement effectively. Luckily, with this project, I didn't experience many issues. 
 
 ## License
 
